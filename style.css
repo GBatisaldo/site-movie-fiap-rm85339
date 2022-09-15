@@ -428,7 +428,8 @@ h2{
 
 #ficha{
     position: absolute;
-    right: 10px;
+    top: 500px;
+    right: 55px;
     display: inline-block;
     flex-direction: column;
     background-color: var(--bg-destaue);
@@ -440,9 +441,11 @@ h2{
 }
 
 #ficha h2{
-    color: var(--texto);
+
     border-left:  var(--cor-primaria) 5px solid;
-    padding-left: 4px ;
+    padding-left: 1%;
+    color: var(--texto);
+
     font-family: var(--font);
     
     
