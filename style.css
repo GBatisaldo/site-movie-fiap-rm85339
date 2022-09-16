@@ -454,10 +454,11 @@ h2{
 #ficha h3{
     padding: 15px;
     text-align: left;
+    
 }
 
 #ficha p{
-    color: #8D8D8D;
+    color: var(--texto);
     
     padding-left: 15px;
 }
